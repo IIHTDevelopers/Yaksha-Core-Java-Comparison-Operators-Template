@@ -1,0 +1,7 @@
+Task:
+Create a Java program that uses comparison operators (==, !=, <, >, <=, >=) to compare two variables and print the results.
+
+Implementation Instructions:
+Declare two variables (both int).
+Compare the variables using comparison operators.
+Print the results of the comparisons (true/false).
